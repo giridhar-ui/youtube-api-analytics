@@ -79,6 +79,8 @@ API (YouTube Data) -> Fetch Data -> Process Data -> Store in PostgreSQL
 Streamlit UI -> Fetch Data -> Visualize with Plotly -> Display Charts
 ```
 
+![Application Overview Page](https://github.com/giridhar-ui/youtube-api-analytics/blob/main/image.jpg)
+
 ### Additional Notes
 
 This project can be extended to include more complex data processing, additional API endpoints, or advanced visualizations as per specific requirements
